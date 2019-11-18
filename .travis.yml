@@ -1,0 +1,6 @@
+language: ruby
+
+install: skip
+
+script:
+  - ruby src/sudoku_test.rb

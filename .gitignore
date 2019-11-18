@@ -1,0 +1,8 @@
+*
+!src/
+!txt/
+!.gitignore
+!*.md
+!*.rb
+!*.txt
+!*.yml
